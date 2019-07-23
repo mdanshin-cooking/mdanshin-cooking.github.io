@@ -1,7 +1,7 @@
 # Site
 name: "Семейные рецепты danshin.ms"
 title: "Title"
-description: "Семейные рецепты проверенные временем"
+description: "Любимые рецепты проверенные временем"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
