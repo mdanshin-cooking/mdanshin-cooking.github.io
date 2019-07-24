@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Маринованный перец"
-categories: [ Маринад ]
+categories: [ Заготовки ]
 image: assets/images/pickled_pepper_0.jpg
 description: "Маринованный сладкий перец - отличная закуска!"
 comments: true

@@ -3,7 +3,7 @@ layout: post
 title:  "Чили кон карне"
 categories: [ Гарнир ]
 image: assets/images/chili_0.jpg
-description: "Острое мясное блюдо"
+description: "Острое мясное блюдо с фасолью"
 comments: true
 #rating: 3
 toc: false
