@@ -9,7 +9,7 @@ comments: true
 toc: false
 featured: false
 #author: mikhail
-hidden: false
+hidden: true
 ---
 *Я не часто квашу капусту, но рецепт проверенный. Получается отлично. Позаимствовал рецепт где-то в интернете.*
 
