@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Чили кон карне"
-categories: [ Гарнир ]
+categories: [ второе блюдо ]
 image: assets/images/chili_0.jpg
 description: "Острое мясное блюдо с фасолью"
 comments: true
