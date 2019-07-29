@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Горчичные огурчики от Лазерсона"
-categories: [ Салат ]
+categories: [ Салат, Заготовки ]
 image: assets/images/cucumbers_with_mustard_0.jpg
 description: "Вкуснейшие огурцы в горчице за 15 минут"
 comments: true
