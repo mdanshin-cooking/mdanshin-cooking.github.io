@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Шашлык в глазури"
+title:  "Шашлык в глазури от Ханкишиева"
 categories: [ Шашлык ]
 image: assets/images/shashlik_glaze_0.jpg
 description: "Шашлык в глазури"
